@@ -21,6 +21,7 @@ const Footer = () => {
           exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
           pariatur.
         </div>
+        <p style={{ color: "orange" }}>Powered By Chirag Maheshwari</p>
         <div className="socialIcons">
           <span className="icon">
             <FaFacebookF />
